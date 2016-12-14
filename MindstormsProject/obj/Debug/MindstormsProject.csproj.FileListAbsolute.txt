@@ -1,0 +1,16 @@
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\bin\Debug\MindstormsProject.exe.config
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\bin\Debug\MindstormsProject.exe
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\bin\Debug\MindstormsProject.pdb
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\bin\Debug\Lego.Ev3.Desktop.dll
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\bin\Debug\Lego.Ev3.Desktop.xml
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\obj\Debug\MindstormsProject.csprojResolveAssemblyReference.cache
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\obj\Debug\MainWindow.g.cs
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\obj\Debug\App.g.cs
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\obj\Debug\MindstormsProject_MarkupCompile.cache
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\obj\Debug\MindstormsProject_MarkupCompile.lref
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\obj\Debug\MainWindow.baml
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\obj\Debug\MindstormsProject.g.resources
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\obj\Debug\MindstormsProject.Properties.Resources.resources
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\obj\Debug\MindstormsProject.csproj.GenerateResource.Cache
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\obj\Debug\MindstormsProject.exe
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject\obj\Debug\MindstormsProject.pdb

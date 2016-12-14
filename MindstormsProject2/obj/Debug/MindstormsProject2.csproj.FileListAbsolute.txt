@@ -1,0 +1,11 @@
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject2\bin\Debug\MindstormsProject2.exe.config
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject2\bin\Debug\MindstormsProject2.exe
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject2\bin\Debug\MindstormsProject2.pdb
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject2\bin\Debug\Lego.Ev3.Desktop.dll
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject2\bin\Debug\Lego.Ev3.Desktop.xml
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject2\obj\Debug\MindstormsProject2.csprojResolveAssemblyReference.cache
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject2\obj\Debug\MindstormsProject2.Form1.resources
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject2\obj\Debug\MindstormsProject2.Properties.Resources.resources
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject2\obj\Debug\MindstormsProject2.csproj.GenerateResource.Cache
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject2\obj\Debug\MindstormsProject2.exe
+c:\users\kazik\onedrive\documenten\visual studio 2015\Projects\MindstormsProject\MindstormsProject2\obj\Debug\MindstormsProject2.pdb
